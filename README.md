@@ -21,3 +21,5 @@ x1 CR2032 3V Coin Cell Battery
 
 **3d View**
 <img width="740" height="721" alt="image" src="https://github.com/user-attachments/assets/49502c68-079e-40fd-bbe7-d2b41698a822" />
+
+**@Sakxem** on Slack!!
